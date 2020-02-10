@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/chris/turing/0module/personal_projects/asp_exploration/asp_exploration.csproj": {}
+  },
+  "projects": {
+    "/Users/chris/turing/0module/personal_projects/asp_exploration/asp_exploration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/chris/turing/0module/personal_projects/asp_exploration/asp_exploration.csproj",
+        "projectName": "asp_exploration",
+        "projectPath": "/Users/chris/turing/0module/personal_projects/asp_exploration/asp_exploration.csproj",
+        "packagesPath": "/Users/chris/.nuget/packages/",
+        "outputPath": "/Users/chris/turing/0module/personal_projects/asp_exploration/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/chris/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
